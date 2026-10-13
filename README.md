@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👨🏻‍💻 Cezar Augusto
 
-<!--
-**cezar0810/Cezar0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Desenvolvimento de Sistemas | Desenvolvedor Web em formação`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Cezar Augusto, sou estudante do ensino médio e faço curso técnico na área de Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em desenvolvimento web, criação de interfaces (UI) e desenvolvimento de aplicações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de transformar ideias em projetos reais, explorando tanto a parte visual quanto a programação. Desenvolvo projetos acadêmicos e pessoais, utilizando tecnologias web e ferramentas modernas para experimentar ideias, aprender novas habilidades e construir soluções.
+
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, versionamento de código com Git e GitHub e criação de interfaces. Meu objetivo é evoluir como desenvolvedor, construir um portfólio sólido e conquistar minhas primeiras oportunidades profissionais na área de tecnologia.
+
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+<p align="left">
+  <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="VS Code" title="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Flutter" title="Flutter" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+</p>
+
+### 🛠️ Projetos em destaque
+
+- **Mercury Habit Tracker:** aplicativo de acompanhamento de hábitos com foco em produtividade, organização e gamificação.
+- **Little Plane:** jogo desenvolvido para a web, com diferentes modos de jogo e mecânicas próprias.
+- **Projetos de desenvolvimento web:** criação de páginas, interfaces e aplicações para estudos e prática de programação.
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=cezar0810&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezar0810&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+Estou aberto a aprender, colaborar em projetos e conhecer novas oportunidades na área de desenvolvimento.
+
+- 💻 GitHub: [@cezar0810](https://github.com/cezar0810)
+- 🤝 Interessado em projetos colaborativos e oportunidades para iniciantes.
