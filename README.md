@@ -36,7 +36,7 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, version
 ### 📈 Histórico de contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cezar0810&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade do GitHub" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=cezar0810&show_icons=true&hide_border=true&theme=tokyonight" alt="Atividade no GitHub">
 </p>
 
 ---
