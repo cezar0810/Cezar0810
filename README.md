@@ -33,6 +33,14 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, version
 
 ---
 
+### 📈 Histórico de contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cezar0810&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade do GitHub" width="100%">
+</p>
+
+---
+
 ### 🚀 Projetos em destaque
 
 - **Aureon Motors:** site de e-commerce de carros de luxo, com foco em interfaces intuitivas e experiência do usuário.
