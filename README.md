@@ -1,8 +1,8 @@
-# 👨🏻‍💻 Cezar Augusto
+# 👨🏻‍💻 Cezar Albuquerque
 
 **`Estudante de Desenvolvimento de Sistemas | Desenvolvedor Web em formação`**
 
-Olá! Me chamo Cezar Augusto, sou estudante do ensino médio e faço curso técnico em Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em desenvolvimento web, criação de interfaces (UI) e desenvolvimento de aplicações.
+Olá! Me chamo Cezar Albuquerque, sou estudante do ensino médio e faço curso técnico em Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em desenvolvimento web, criação de interfaces (UI) e desenvolvimento de aplicações.
 
 Gosto de transformar ideias em projetos reais, explorando tanto a parte visual quanto a programação. Desenvolvo projetos acadêmicos e pessoais, utilizando tecnologias web e ferramentas modernas para experimentar ideias, aprender novas habilidades e construir soluções.
 
