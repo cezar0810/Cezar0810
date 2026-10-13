@@ -25,15 +25,10 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, version
 
 ---
 
-### 🛠️ Tecnologias utilizadas nos projetos
+### 💻 Tecnologias mais utilizadas
 
-<p align="left">
-  <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-  <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezar0810&layout=compact&theme=tokyonight&langs_count=8" alt="Tecnologias mais utilizadas no GitHub">
 </p>
 
 ---
